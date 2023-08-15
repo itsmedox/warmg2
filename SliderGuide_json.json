@@ -9,7 +9,7 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "is_max": false,
+  "is_max": true,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
@@ -40,7 +40,7 @@
   "show_force_rate": false,
   
   
-  "show_slider": false,
+  "show_slider": true,
 
   "show_activities": true,
   
